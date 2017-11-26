@@ -1,0 +1,5 @@
+.ee-main-editor-wrapper {
+  flex: 1;
+  display: flex;
+  width: 100%;
+}

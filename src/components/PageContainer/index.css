@@ -1,0 +1,8 @@
+.ee-app-container {
+  /*background: white;*/
+  background-color: #f8f8f8;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
